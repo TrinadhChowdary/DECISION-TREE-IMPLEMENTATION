@@ -15,3 +15,10 @@
 #Description
 
 ##This task focuses on implementing a Decision Tree Classifier using the Iris dataset in Python. The project uses several tools and libraries such as Python, Pandas, Matplotlib, and Scikit-Learn. The Iris dataset is loaded using Scikit-Learn and contains measurements of iris flowers, including sepal length, sepal width, petal length, and petal width. The dataset is divided into training and testing sets using the train_test_split() function. A Decision Tree model is then created using DecisionTreeClassifier with the Gini criterion and trained on the training data. After training, the model predicts the species of flowers in the test dataset. The performance of the model is evaluated using Accuracy Score and Confusion Matrix, which help measure how well the classifier performs.
+
+#OUTPUT
+
+<img width="1707" height="897" alt="Image" src="https://github.com/user-attachments/assets/b8734fd2-9430-4535-b5e5-fc5b4f2a9ec3" />
+
+
+<img width="830" height="361" alt="Image" src="https://github.com/user-attachments/assets/41f5d2a2-7840-4433-adbc-bd3783074f1d" />
